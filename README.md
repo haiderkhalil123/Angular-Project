@@ -52,19 +52,19 @@ ng serve
 ### Features
 
 1. Highcharts Integration:
-- Sample Highcharts components are located in the src/app/highcharts directory.
+- Sample Highcharts components are located in the `src/app/highcharts` directory.
 
 2. Angular Material Table
-- Basic Angular Material Table is implemented in the src/app/material-table directory
+- Basic Angular Material Table is implemented in the `src/app/material-table` directory
 
 3. Angular Material Expandable Table:
-- An extension of Angular Material Table with expandable rows is showcased in the src/app/expandable-table directory.
+- An extension of Angular Material Table with expandable rows is showcased in the `src/app/expandable-table` directory.
 
 4. Angular Gantt Chart:
-- Gantt chart functionality can be found in the src/app/gantt-chart directory.
+- Gantt chart functionality can be found in the `src/app/gantt-chart` directory.
 
 5. AG Grid:
-- AG Grid is used for advanced grid functionalities in the src/app/ag-grid directory.
+- AG Grid is used for advanced grid functionalities in the `src/app/ag-grid` directory.
 
 ### Contributing
 
